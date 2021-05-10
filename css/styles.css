@@ -711,11 +711,6 @@ img {
   transition: background-color 250ms var(--cubic-bezier), color 250ms var(--cubic-bezier),
     box-shadow 250ms var(--cubic-bezier);
 }
-/*.filter-all:hover,
-.filter-all:focus {
-  background-color: var(--light-background);
-  color: var(--title-color);
-  cursor: pointer;*/
 
 /* projects */
 .projects-list {
