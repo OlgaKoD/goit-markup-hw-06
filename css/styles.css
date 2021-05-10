@@ -716,7 +716,6 @@ img {
   background-color: var(--light-background);
   color: var(--title-color);
   cursor: pointer;*/
-}
 
 /* projects */
 .projects-list {
@@ -897,7 +896,6 @@ img {
 
 .subscribe {
   min-width: 570px;
-  margin-left: ;
 }
 
 .subscribe-text {
