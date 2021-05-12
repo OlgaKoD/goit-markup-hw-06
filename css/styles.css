@@ -441,6 +441,7 @@ img {
 }
 
 .policy-link {
+  margin-left: 5px;
   color: var(--accent-color);
 }
 
