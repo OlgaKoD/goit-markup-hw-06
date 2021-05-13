@@ -398,10 +398,9 @@ img {
 
 .checkbox-wrap {
   position: relative;
-  display: inline-block;
+  align-self: center;
   width: 16px;
   height: 15px;
-  top: 3px;
   margin-right: 7px;
   background-color: var(--white-background);
   border: 2px solid var(--nav-header-color);
@@ -823,10 +822,7 @@ img {
 .footer-container {
   display: flex;
   align-items: baseline;
-}
-
-.address-container {
-  margin-right: 70px;
+  justify-content: space-between;
 }
 
 .footer-logo {
@@ -862,9 +858,10 @@ img {
   text-decoration: none;
 }
 
-.footer-social-networks {
+/*.footer-social-networks {
   margin-right: 93px;
-}
+}*/
+
 .footer-social-networks-text {
   font-weight: 700;
   text-transform: uppercase;
@@ -903,10 +900,9 @@ img {
   fill: var(--alt-title-color);
 }
 
-.subscribe {
+/*.subscribe {
   min-width: 570px;
-  margin-left: auto;
-}
+}*/
 
 .subscribe-label {
   display: block;
